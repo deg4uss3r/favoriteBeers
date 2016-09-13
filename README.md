@@ -1,5 +1,5 @@
 ####Uses the untappd API to pull beer styles and ratings in order to tell you what your favortie style of beer is!
-```Ricky Hosfelt
+```RH - degausser
 ```Python, analytics, data science
 
 #####untapped.py 
